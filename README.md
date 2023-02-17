@@ -4,6 +4,11 @@
 
 Este projeto tem como objetivo fazer o cálculo de IMC com HTML, CSS e JavaScript.
 O índice de massa corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99975124/219680645-33c00d9d-e65d-4ef4-b706-8428339ad361.jpg" width="500px">
+</div>
+                                                                                                                        
 <h1>Funcionalidades</h1>
 
 A calculadora permite que o usuário insira o peso e altura, calcule o índice de massa corporal (IMC) e exiba o resultado na tela.
