@@ -2,7 +2,7 @@
 
 
 
-Este projeto tem como objetivo fazer uma calculadora de IMC com HTML, CSS e JavaScript.
+Este projeto tem como objetivo fazer o cálculo de IMC com HTML, CSS e JavaScript.
 <h1>Funcionalidades</h1>
 
 A calculadora permite que o usuário insira o peso e altura, calcule o índice de massa corporal (IMC) e exiba o resultado na tela.
