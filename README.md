@@ -6,7 +6,7 @@ Este projeto tem como objetivo fazer o cálculo de IMC com HTML, CSS e JavaScrip
 <h1>Funcionalidades</h1>
 
 A calculadora permite que o usuário insira o peso e altura, calcule o índice de massa corporal (IMC) e exiba o resultado na tela.
-Como Usar
+
 
 <h1>Faça o clone deste repositório:</h1>
 
