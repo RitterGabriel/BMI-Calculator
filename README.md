@@ -2,8 +2,8 @@
 
 
 
-Este projeto tem como objetivo fazer o cálculo de IMC com HTML, CSS e JavaScript.
-O índice de massa corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal.<br>
+This project aims to make the BMI calculator with HTML, CSS and JavaScript.
+The body mass index (IMC) is an international measure used to calculate whether a person is at an ideal weight.<br>
 <br>
 
 
@@ -12,25 +12,25 @@ O índice de massa corporal (IMC) é uma medida internacional usada para calcula
 <img src="https://user-images.githubusercontent.com/99975124/219680645-33c00d9d-e65d-4ef4-b706-8428339ad361.jpg" width="500px">
 </div>
                                                                                                                         
-<h1>Funcionalidades</h1>
+<h1>Functionalities</h1>
 
-A calculadora permite que o usuário insira o peso e altura, calcule o índice de massa corporal (IMC) e exiba o resultado na tela.
+The calculator allows the user to enter weight and height, calculate the body mass index (BMI) and display the result on the screen.
 
 
-<h1>Faça o clone deste repositório:</h1>
+<h1>Clone this repository:</h1>
 
 
 git clone https://github.com/RitterGabriel/Calculadora-IMC.git
 
-<h1>Como utilizar</h1>
+<h1>How to use</h1>
 
-    Abra o arquivo index.html em um navegador web.
+    Open the index.html file in a web browser.
 
-    Insira o peso e altura nos campos correspondentes e clique em "Calcular IMC".
+    Enter weight and height in the corresponding fields and click "Calculate IMC".
 
-    O resultado do cálculo será exibido na tela.
+    The calculation result will be displayed on the screen.
 
-<h1>Tecnologias Utilizadas</h1>
+<h1>Technologies used</h1>
 
     HTML
     CSS
