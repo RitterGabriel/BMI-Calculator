@@ -1,4 +1,4 @@
-<h1>Calculadora IMC</h1>
+<h1>BMI Calculator</h1>
 
 
 
