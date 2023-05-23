@@ -3,7 +3,7 @@
 
 
 This project aims to make the BMI calculator with HTML, CSS and JavaScript.
-The body mass index (IMC) is an international measure used to calculate whether a person is at an ideal weight.<br>
+The body mass index (BMI) is an international measure used to calculate whether a person is at an ideal weight.<br>
 <br>
 
 
